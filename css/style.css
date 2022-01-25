@@ -73,6 +73,11 @@ color: black;
 display: inline-block;
 }
 
+.block{
+    display: block;
+    width: 30px;
+}
+
 .accedi{
     width: 80px;
     height: 30px;
@@ -103,6 +108,7 @@ display: inline-block;
     width: 30%;
 }
 
+
 .paragrafo{
     font-size: 16px;
     line-height: 1.5;
@@ -117,4 +123,12 @@ display: inline-block;
     width: 260px;
     height: 32px;
     line-height: 32px;
+}
+
+path{
+    font-size: 16px;
+}
+
+.jumbo{
+    width: 800px;
 }
