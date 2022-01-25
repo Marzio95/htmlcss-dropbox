@@ -5,7 +5,7 @@
 }
 
 html{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 /* creo un database classi */
@@ -29,6 +29,7 @@ html{
     position: fixed;
     line-height: 60px;
     z-index: 9000;
+    background-color: white;
 }
 
 .float-left{
@@ -74,8 +75,6 @@ display: inline-block;
 
 .accedi{
     width: 80px;
-    text-align: center;
-    color: white;
     height: 30px;
     vertical-align: top;
     line-height: 30px;
@@ -84,4 +83,38 @@ display: inline-block;
 
 .bkg-btt-link{
     background-color: #0061ff;
+    text-align: center;
+    color: white;
+}
+
+.conteiner-blu{
+    background-color: #adcfeb;
+    /* altezza provvisoria */
+    height: 600px;
+    padding-top: 60px;
+}
+
+.titolo{
+    font-size: 74px;
+    margin-top: 50px;
+}
+
+.colonna{
+    width: 30%;
+}
+
+.paragrafo{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 30px;
+}
+
+.ft-size{
+    font-size: 16px;
+}
+
+.prova{
+    width: 260px;
+    height: 32px;
+    line-height: 32px;
 }
