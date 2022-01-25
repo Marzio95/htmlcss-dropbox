@@ -32,6 +32,15 @@ html{
     background-color: white;
 }
 
+.inline{
+    display: inline-block;
+}
+
+.witdh90{
+    width: 90%;
+    margin: 0 auto;
+}
+
 .float-left{
     float: left;
 }
@@ -171,12 +180,13 @@ path{
 }
 
 .vertical-col{
-    width: calc(100% - 66% - 50px);
+    width: 380px;
     border: 1px solid black;
     margin-top: 40px;
     display: inline-block;
-    margin-right: 20px;
+    height: 900px;
 }
+
 
 .titolo-col{
     text-align: center;
@@ -239,4 +249,32 @@ path{
 
 .tit-ul{
     font-size: 20px;
+}
+
+.row-team{
+    width: 100%;
+    border: 1px solid black;
+    height: 300px;
+}
+
+.marg-mid{
+    margin: 0 30px;
+}
+
+.row-team{
+    margin-top: 40px;
+}
+
+.titolo3{
+    font-size: 30px;
+}
+
+.riga{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 30px;
+}
+
+.uff-vend{
+    width: 300px;
 }
