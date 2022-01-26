@@ -526,3 +526,10 @@ footer{
     margin-top: 25px;
     color: white;
 }
+
+.freccia-footer{
+    transform: rotate(90deg);
+    margin-left: 10px;
+    height: 2rem;
+    line-height: 2rem;
+}
