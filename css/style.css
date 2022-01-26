@@ -482,7 +482,7 @@ path{
 footer{
     width: 100%;
     background-color: black;
-    height: 1000px;
+    height: 500px;
     margin-top: 100px;
 }
 
@@ -513,5 +513,16 @@ footer{
 .li-footer{
     font-size: 1rem;
     margin-top: 20px;
+}
 
+.linea-footer{
+    margin-top: 50px;
+    width: 150px;
+    height: 0.1px;
+    border: 1px solid white;
+}
+
+.lingua-italiano{
+    margin-top: 25px;
+    color: white;
 }
