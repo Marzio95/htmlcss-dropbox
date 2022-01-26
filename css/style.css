@@ -341,8 +341,15 @@ path{
 }
 
 .brown{
-    background-color: #61082b;
-    
+    background-color: #61082b;  
+}
+
+.orange{
+    background-color: #d5001f;
+}
+
+.celestino{
+    background-color: #b4d0e7;
 }
 
 .design-logo{
