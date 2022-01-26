@@ -479,3 +479,39 @@ path{
     transform: rotate(90deg);
 }
 
+footer{
+    width: 100%;
+    background-color: black;
+    height: 1000px;
+    margin-top: 100px;
+}
+
+.row-footer{
+    width: 100%;
+    padding-top: 100px;
+
+}
+
+
+.colonna-lista{
+    width: 200px;
+    margin-right: 50px;
+}
+
+.lista-footer{
+    color: white;
+    list-style: none;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.link-footer{
+    color: white;
+    text-decoration: none;
+}
+
+.li-footer{
+    font-size: 1rem;
+    margin-top: 20px;
+
+}
