@@ -449,5 +449,33 @@ path{
     top: 50%;
 }
 
+.row-domande-tit{
+    width: 100%;
+    padding-left: 10px;
+    height: 60px;
+}
 
+.row-domande{
+    width: 100%;
+    border: 1px solid black;
+    padding-left: 10px;
+    height: 60px;
+}
+
+.domande{
+    font-size: 2rem;
+}
+
+.question{
+    line-height: 60px;
+}
+
+.margin-top{
+    margin-top: 100px;
+}
+
+.freccia-giu{
+    margin-right: 20px;
+    transform: rotate(90deg);
+}
 
