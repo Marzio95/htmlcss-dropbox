@@ -109,6 +109,10 @@ display: inline-block;
     color: white;
 }
 
+.bkg-btt-link:hover{
+    filter: brightness(0.9);
+}
+
 .conteiner-blu{
     background-color: #adcfeb;
     /* altezza provvisoria */
