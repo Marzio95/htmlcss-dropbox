@@ -303,6 +303,10 @@ path{
     visibility: hidden;
 }
 
+.margine-xxx{
+    padding-left: 16px;
+}
+
 .fa-check{
     color:#0061ff
 }
