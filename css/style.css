@@ -226,7 +226,7 @@ path{
 
 .vertical-col{
     width: 380px;
-    border: 1px solid black;
+    border: 1px solid lightgray;
     margin-top: 40px;
     display: inline-block;
     height: 900px;
@@ -238,7 +238,7 @@ path{
     height: 40px;
     line-height: 40px;
     width: 100%;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid lightgray;
 }
 
 .testo-col{
@@ -309,7 +309,7 @@ path{
 
 .row-team{
     width: 100%;
-    border: 1px solid black;
+    border: 1px solid lightgray;
     height: 300px;
     margin-top: 40px;
 }
@@ -502,7 +502,7 @@ path{
 
 .absolute-right{
     background-color: white;
-    border: 1px solid black;
+    border: 1px solid lightgray;
     color: black;
     position: absolute;
     right: 0;
