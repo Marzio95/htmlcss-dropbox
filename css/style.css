@@ -49,6 +49,7 @@ html{
     float: right;
 }
 
+/* errore nel clearfix  */
 .clearfix{
     content: "";
     display: table;
@@ -144,6 +145,10 @@ path{
 
 .sezione2{
     margin-top: 200px;
+}
+
+.solution-navbar{
+    margin-top: 65px;
 }
 
 .titolo2{
@@ -376,11 +381,14 @@ path{
 
 .design-logo{
     width: 60%;
+    filter: invert(1);
+
 }
 
 svg{
     width: 60%;
     height: 250px;
+    fill: white;
 }
 
 path{
@@ -409,6 +417,7 @@ path{
 
 .design-logo2{
     width: 35%;
+    fill: white;
 }
 
 .paragrafo4{
