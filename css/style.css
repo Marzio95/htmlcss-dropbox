@@ -493,6 +493,19 @@ path{
     height: 60px;
 }
 
+.lorem{
+    font-size: smaller;
+    line-height: normal;
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    display: none;
+}
+
+.question:hover .lorem{
+    display: inline-block;
+}
+
 .domande{
     font-size: 2rem;
 }
