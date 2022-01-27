@@ -299,6 +299,10 @@ path{
     font-size: 14px;
 }
 
+.hidden-li{
+    visibility: hidden;
+}
+
 .fa-check{
     color:#0061ff
 }
