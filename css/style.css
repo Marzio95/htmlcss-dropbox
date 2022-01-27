@@ -517,7 +517,7 @@ path{
 
 .row-domande{
     width: 100%;
-    border: 1px solid black;
+    border: 1px solid lightgray;
     padding-left: 10px;
     height: 60px;
 }
