@@ -90,6 +90,39 @@ color: black;
 display: inline-block;
 }
 
+.padre-tendina{
+    position: relative;
+}
+
+.hover:hover .tendina{
+    display: inline-block;
+}
+
+.tendina{
+    position: absolute;
+    background-color: white;
+    top: 60px;
+    width: 210px;
+    right: 400px;
+    border: 1px solid black;
+    display: none;
+}
+
+.link-tendina{
+    text-decoration: none;
+    color: black;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.link-tendina:hover{
+    background-color: lightgrey;
+}
+
+
+
+
+
 .block{
     display: block;
     width: 30px;
