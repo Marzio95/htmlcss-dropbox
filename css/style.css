@@ -500,6 +500,7 @@ path{
     margin: 0 auto;
     margin-bottom: 20px;
     display: none;
+    color: gray;
 }
 
 .question:hover .lorem{
@@ -552,6 +553,10 @@ footer{
 .link-footer{
     color: white;
     text-decoration: none;
+}
+
+.link-footer:hover{
+    text-decoration: underline;
 }
 
 .li-footer{
