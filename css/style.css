@@ -23,6 +23,7 @@ html{
     margin: 0 auto;
 }
 
+/* stile nav bar */
 .nav{
     width: 100%;
     height: 60px;
@@ -34,6 +35,7 @@ html{
     padding-top: 2px;
 }
 
+/* database classi */
 .inline{
     display: inline-block;
 }
@@ -57,18 +59,18 @@ html{
     display: table;
     clear: both;
 }
-
+ /* barra nav  */
 .bar-nav{
     width: 600px;
 }
 
-
+/* style logo */
 .logo{
     vertical-align: middle;
     margin-bottom: 4px;
     margin-left: 20px;
 }
-
+/* style ul,li,link navbar */
 .ul-navbar{
     list-style: none;
     display: inline-block;
@@ -90,6 +92,7 @@ color: black;
 display: inline-block;
 }
 
+/* style css tendina hover navbar  */
 .padre-tendina{
     position: relative;
 }
@@ -132,6 +135,7 @@ display: inline-block;
     transform: translateY(50%);
 }
 
+/* styles button layout + hover effect  */
 .bkg-btt-link{
     background-color: #0061ff;
     text-align: center;
@@ -142,6 +146,7 @@ display: inline-block;
     filter: brightness(0.9);
 }
 
+/* prima parte con sfondo blu  */
 .conteiner-blu{
     background-color: #adcfeb;
     /* altezza provvisoria */
@@ -183,6 +188,7 @@ path{
     width: 800px;
 }
 
+/* styles sezione2 layout  */
 .sezione2{
     margin-top: 200px;
 }
@@ -224,6 +230,7 @@ path{
     vertical-align: bottom;
 }
 
+/* sezione colonne verticali floattanti  */
 .vertical-col{
     width: 380px;
     border: 1px solid lightgray;
@@ -330,6 +337,7 @@ path{
     margin-top: 80px;
 }
 
+/* style tutti titoli di dimensione 30px */
 .titolo3{
     font-size: 30px;
 }
@@ -387,6 +395,7 @@ path{
     margin-bottom: 30px;
 }
 
+/* sezione con i box con nomi aziende  */
 .box-aziende{
     width: 15%;
     height: 250px;
@@ -517,6 +526,7 @@ path{
     top: 50%;
 }
 
+/* sezione domande frequenti */
 .row-domande-tit{
     width: 100%;
     padding-left: 10px;
@@ -561,6 +571,7 @@ path{
     transform: rotate(90deg);
 }
 
+/* styles footer  */
 footer{
     width: 100%;
     background-color: black;
