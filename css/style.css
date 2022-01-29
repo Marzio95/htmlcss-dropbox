@@ -85,6 +85,10 @@ html{
     border-bottom: 2px solid black;
 }
 
+.accedi:hover{
+    border-bottom: none;
+}
+
 
 .link{
 text-decoration: none;
